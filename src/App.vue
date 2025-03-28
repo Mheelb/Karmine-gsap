@@ -5,3 +5,8 @@ import ThreeScene from './components/ThreeScene.vue';
 <template>
   <ThreeScene />
 </template>
+
+<style>body {
+  background-color: #000; /* Fond noir */
+}
+</style>
